@@ -1,8 +1,8 @@
-databases:
-  - name: hello_rails8
-    plan: starter
-    databaseName: hello_rails8
-    user: hello_rails8
+# databases:
+#   - name: hello_rails8
+#     plan: starter
+#     databaseName: hello_rails8
+#     user: hello_rails8
 
 services:
   - type: web
